@@ -1,1 +1,3 @@
-I love Ruby and JavaScript!
+* PHP
+* JavaScript
+* CodeSchool
